@@ -47,3 +47,22 @@ Si `ProductoDigital.pesoKg > 0` ➜ lanzar excepción
   "costoAlmacen": 10.00,
   "precioFinal": 161.56
 }
+
+```
+### Response — Producto Digital
+```json
+{
+  "id": 456,
+  "nombre": "Curso de Tenis Online",
+  "tipo": "DIGITAL",
+  "precioBase": 50.00,
+  "tamanoMB": 1200,
+  "precioFinal": 110.00
+}
+```
+### Error
+```json
+{
+  "error": "ProductoDigitalNoPuedeTenerPeso",
+  "mensaje": "Un producto digital no debe tener peso físico mayor a 0kg"
+}
