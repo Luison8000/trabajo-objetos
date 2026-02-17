@@ -1,5 +1,5 @@
 
-#  Persona 3 — Backend Órdenes (El Orquestador)
+#  Backend Órdenes
 
 ##  Objetivo
 Construir órdenes, calcular totales y coordinar Catálogo + Logística.
