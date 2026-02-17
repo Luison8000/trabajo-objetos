@@ -1,5 +1,5 @@
 
-#  Persona 2 — Backend Logística (El Matemático)
+#  Backend Logística 
 
 ##  Objetivo
 Calcular costos de envío usando patrón Strategy + Factory.
